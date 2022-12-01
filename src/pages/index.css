@@ -1,0 +1,34 @@
+.hero {
+  height: 43%;
+  outline-color: gray;
+  outline-style: dashed;
+}
+
+.testaments {
+  height: 37%;
+  outline-color: rgb(139, 121, 121);
+  outline-style: dashed;
+}
+
+.reel {
+  height: 20%;
+  outline-color: rgb(187, 148, 148);
+  outline-style: dashed;
+}
+
+.heroText {
+  height: 29%;
+  outline-color: gray;
+  padding-bottom: 2%;
+}
+
+.heroBold {
+  font-weight: 600;
+  text-shadow: 2px 2px #0002;
+}
+
+.heroCarousel {
+  height: 71%;
+  outline-color: rgb(124, 114, 114);
+  outline-style: dashed;
+}

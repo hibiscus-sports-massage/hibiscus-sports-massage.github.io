@@ -1,0 +1,1 @@
+- React Bootstrap is used for the container system for this project. Please implement all Components to expand according to the React Bootstrap container spec.
