@@ -7,8 +7,6 @@ export function Logo(props) {
       className={className}
       src={HibiscusFlower}
       alt="Picture of the author"
-      width={128}
-      height={128}
     />
   )
 }

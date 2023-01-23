@@ -96,7 +96,7 @@ export function Header() {
         <nav className="relative z-50 flex justify-between">
           <div className="flex items-center justify-start md:gap-x-12">
             <Link href="#" aria-label="Home">
-              <Logo className="h-auto w-auto" />
+              <Logo className="h-36 w-36" />
             </Link>
             <div className="hidden md:flex">
               <h1 className="font-yellowtail text-3xl text-hibiscusvoilet">
